@@ -18,7 +18,31 @@ select * from sales.customers where email like '%@gmail.com'
 select * from sales.staffs where active =0
 
 -- 6- List top 5 most expensive products
-select * from production.products
+select top 5 * from production.products order by list_price desc;
+
+-- 7-Show latest 10 orders sorted by date
+select top 10 * from sales.orders order by order_date desc;
+
+-- 8 Retrieve the first 3 customers alphabetically by last name
+select top 3 * from sales.customers order by last_name asc;
+---9 Find customers who did not provide a phone number
+select * from sales.customers where phone is null;
+--10 Show all staff who have a manager assigned
+select * from sales.staffs where manager_id is not null;
+
+--11Count number of products in each category
+select category_id, count(*) as product_count from production.products group by category_id;
+--12Count number of customers in each state
+select state, count(*) as customer_count from sales.customers group by state;
+--13 Get average list price of products per brand
+select brand_id, avg(list_price) as avg_price from production.products group by brand_id;
+
+--14 Show number of orders per staff
+select staff_id, count(*) as order_count from sales.orders group by staff_id;
+
+
+--15 Find customers who made more than 2 orders
+select customer_id, count(*) as order_count from sales.orders group by customer_id having count(*) > 2;
 
 
 
