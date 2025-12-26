@@ -40,7 +40,6 @@ select brand_id, avg(list_price) as avg_price from production.products group by 
 --14 Show number of orders per staff
 select staff_id, count(*) as order_count from sales.orders group by staff_id;
 
-
 --15 Find customers who made more than 2 orders
 select customer_id, count(*) as order_count from sales.orders group by customer_id having count(*) > 2;
 
