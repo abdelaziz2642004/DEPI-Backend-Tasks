@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdel\\OneDrive\\Desktop\\DEPI-Tasks\\Technical\\C#-OOP\\BankSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6421ECC-ACA3-ADE3-3ADD-56048D3720C1}|BankSystem.csproj|c:\\users\\abdel\\onedrive\\desktop\\depi-tasks\\technical\\c#-oop\\banksystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6421ECC-ACA3-ADE3-3ADD-56048D3720C1}|BankSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6421ECC-ACA3-ADE3-3ADD-56048D3720C1}|BankSystem.csproj|c:\\users\\abdel\\onedrive\\desktop\\depi-tasks\\technical\\c#-oop\\banksystem\\bankutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6421ECC-ACA3-ADE3-3ADD-56048D3720C1}|BankSystem.csproj|solutionrelative:bankutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6421ECC-ACA3-ADE3-3ADD-56048D3720C1}|BankSystem.csproj|c:\\users\\abdel\\onedrive\\desktop\\depi-tasks\\technical\\c#-oop\\banksystem\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6421ECC-ACA3-ADE3-3ADD-56048D3720C1}|BankSystem.csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6421ECC-ACA3-ADE3-3ADD-56048D3720C1}|BankSystem.csproj|c:\\users\\abdel\\onedrive\\desktop\\depi-tasks\\technical\\c#-oop\\banksystem\\accountoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6421ECC-ACA3-ADE3-3ADD-56048D3720C1}|BankSystem.csproj|solutionrelative:accountoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6421ECC-ACA3-ADE3-3ADD-56048D3720C1}|BankSystem.csproj|c:\\users\\abdel\\onedrive\\desktop\\depi-tasks\\technical\\c#-oop\\banksystem\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6421ECC-ACA3-ADE3-3ADD-56048D3720C1}|BankSystem.csproj|solutionrelative:bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6421ECC-ACA3-ADE3-3ADD-56048D3720C1}|BankSystem.csproj|c:\\users\\abdel\\onedrive\\desktop\\depi-tasks\\technical\\c#-oop\\banksystem\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6421ECC-ACA3-ADE3-3ADD-56048D3720C1}|BankSystem.csproj|solutionrelative:currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6421ECC-ACA3-ADE3-3ADD-56048D3720C1}|BankSystem.csproj|c:\\users\\abdel\\onedrive\\desktop\\depi-tasks\\technical\\c#-oop\\banksystem\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6421ECC-ACA3-ADE3-3ADD-56048D3720C1}|BankSystem.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6421ECC-ACA3-ADE3-3ADD-56048D3720C1}|BankSystem.csproj|c:\\users\\abdel\\onedrive\\desktop\\depi-tasks\\technical\\c#-oop\\banksystem\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6421ECC-ACA3-ADE3-3ADD-56048D3720C1}|BankSystem.csproj|solutionrelative:savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6421ECC-ACA3-ADE3-3ADD-56048D3720C1}|BankSystem.csproj|c:\\users\\abdel\\onedrive\\desktop\\depi-tasks\\technical\\c#-oop\\banksystem\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6421ECC-ACA3-ADE3-3ADD-56048D3720C1}|BankSystem.csproj|solutionrelative:transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\DEPI-Tasks\\Technical\\C#-OOP\\BankSystem\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount.cs",
+              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Desktop\\DEPI-Tasks\\Technical\\C#-OOP\\BankSystem\\BankAccount.cs",
+              "RelativeToolTip": "BankAccount.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAqwNEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T06:46:16.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\DEPI-Tasks\\Technical\\C#-OOP\\BankSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Desktop\\DEPI-Tasks\\Technical\\C#-OOP\\BankSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAQwJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T06:47:08.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SavingAccount.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\DEPI-Tasks\\Technical\\C#-OOP\\BankSystem\\SavingAccount.cs",
+              "RelativeDocumentMoniker": "SavingAccount.cs",
+              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Desktop\\DEPI-Tasks\\Technical\\C#-OOP\\BankSystem\\SavingAccount.cs",
+              "RelativeToolTip": "SavingAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T06:52:57.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\DEPI-Tasks\\Technical\\C#-OOP\\BankSystem\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Desktop\\DEPI-Tasks\\Technical\\C#-OOP\\BankSystem\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowFcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T06:59:08.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CurrentAccount.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\DEPI-Tasks\\Technical\\C#-OOP\\BankSystem\\CurrentAccount.cs",
+              "RelativeDocumentMoniker": "CurrentAccount.cs",
+              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Desktop\\DEPI-Tasks\\Technical\\C#-OOP\\BankSystem\\CurrentAccount.cs",
+              "RelativeToolTip": "CurrentAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T06:53:14.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankUtilities.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\DEPI-Tasks\\Technical\\C#-OOP\\BankSystem\\BankUtilities.cs",
+              "RelativeDocumentMoniker": "BankUtilities.cs",
+              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Desktop\\DEPI-Tasks\\Technical\\C#-OOP\\BankSystem\\BankUtilities.cs",
+              "RelativeToolTip": "BankUtilities.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwDoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T07:08:50.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\DEPI-Tasks\\Technical\\C#-OOP\\BankSystem\\Bank.cs",
+              "RelativeDocumentMoniker": "Bank.cs",
+              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Desktop\\DEPI-Tasks\\Technical\\C#-OOP\\BankSystem\\Bank.cs",
+              "RelativeToolTip": "Bank.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAUwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T07:04:04.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountOperations.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\DEPI-Tasks\\Technical\\C#-OOP\\BankSystem\\AccountOperations.cs",
+              "RelativeDocumentMoniker": "AccountOperations.cs",
+              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Desktop\\DEPI-Tasks\\Technical\\C#-OOP\\BankSystem\\AccountOperations.cs",
+              "RelativeToolTip": "AccountOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T07:09:30.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\OneDrive\\Desktop\\DEPI-Tasks\\Technical\\C#-OOP\\BankSystem\\Transaction.cs",
+              "RelativeDocumentMoniker": "Transaction.cs",
+              "ToolTip": "C:\\Users\\abdel\\OneDrive\\Desktop\\DEPI-Tasks\\Technical\\C#-OOP\\BankSystem\\Transaction.cs",
+              "RelativeToolTip": "Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T07:08:46.693Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
